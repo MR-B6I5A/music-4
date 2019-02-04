@@ -1,4 +1,4 @@
-owner=516473846983950336
+owner=430757935753461761
 prefix=3
 game=Type | 3play
 stayinchannel=true
